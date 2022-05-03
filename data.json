@@ -1,0 +1,7 @@
+{
+ "id": 1,
+ "title":"walking",
+ "heartbeat":"100bpm",
+ "blood-pressure":"100",
+ "status":true 
+}
