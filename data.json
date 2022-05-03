@@ -3,5 +3,6 @@
  "title":"walking",
  "heartbeat":"100bpm",
  "blood-pressure":"100",
- "status":"completed" 
+ "status":"completed",
+ "calorie_burned":"400cal"
 }
